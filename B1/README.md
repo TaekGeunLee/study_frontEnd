@@ -9,6 +9,7 @@
 * [2](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/2) : 도구에 의존하는 것에 대해서?
 
 ### Ch3. 새로운 레이아웃
+* [3](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/3) : CSS 양식화 문맥
 
 
 

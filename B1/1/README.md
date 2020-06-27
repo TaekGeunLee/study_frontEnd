@@ -1,20 +1,15 @@
 float은 CSS 초창기 시절에 많은 개발자들이 레이아웃을 만드는데 많이 쓰던
 프로퍼티이다.<br />float 만으로 레이아웃을 만드는 것에 대해 기록해본다.<br />
 
-<img src="#" alt="B1_2-1" />
-```css
-    .content {
-        float: left;
-    }
-```
+<img src="https://github.com/TaekGeunLee/study_frontEnd/blob/master/readmeImg/B1_2-1.JPG" alt="B1_2-1" />
 
-위의 예시 처럼 6개의 list 요소들(.content)을 <pre>float:left</pre>로 정렬했다.<br />
+위의 예시 처럼 6개의 list 요소들(.content)을 float:left로 정렬했다.<br />
 float로 정렬하면, 왼쪽(left) 또는 오른쪽(right)로 다른 요소가 가로막을 때 까지
 이동한다.<br />배치하고자 하는 요소들의 너비(width)와 높이(height)가 일정하다면 문제가 없는 방식이다.<br />
 과거 웹디자인기능사 실기 시험을 볼때, 가장 많이 애용하던 방식이기도 하고 말이다..
 하지만 이 방식에는 문제점이 있다.<br />
 
-<img src="#" alt="B1_2-2" />
+<img src="https://github.com/TaekGeunLee/study_frontEnd/blob/master/readmeImg/B1_2-2.JPG" alt="B1_2-2" />
 
 2번째 컴포넌트에 추가로 텍스트를 넣어서 높이(height)가 커져버렸다.<br />
 이 때문에 4번째 상자가 왼쪽으로 floating하지 못하고 오른쪽 구석탱이로 가면서
@@ -26,10 +21,10 @@ float로 정렬하면, 왼쪽(left) 또는 오른쪽(right)로 다른 요소가 
 
 ### 첫 번째 방법 : clearfix
 
-<img src="#" alt="B1_2-3" />
+<img src="https://github.com/TaekGeunLee/study_frontEnd/blob/master/readmeImg/B1_2-3.JPG" alt="B1_2-3" />
 
-위의 그림 처럼 하나의 행마다 <pre>.wrap</pre> 요소로 감싼다.<br />
-그 다음에 <pre>.wrap</pre> 내부의 요소들에 걸린 float을 제거한다.
+위의 그림 처럼 하나의 행마다 .wrap요소로 감싼다.<br />
+그 다음에 .wrap 내부의 요소들에 걸린 float을 제거한다.
 (이러한 행위를 clearfix 라고 부른다.)<br />
 
 코드상으론 다음과 같다.<br />
@@ -41,8 +36,8 @@ float로 정렬하면, 왼쪽(left) 또는 오른쪽(right)로 다른 요소가 
     .wrap {clear: both;}
 ```
 
-.. 다만 각 행 마다 <pre>.wrap</pre> 태그로 감싸줘야 하기 때문에
-정렬해야 하는 컴포넌트의 수가 많아지면 일일히 <pre>.wrap</pre>를 만들어줘야 하는
+.. 다만 각 행 마다 .wrap 태그로 감싸줘야 하기 때문에
+정렬해야 하는 컴포넌트의 수가 많아지면 일일히 .wrap를 만들어줘야 하는
 단점이 있다.<br />
 
 ### 두 번째 방법 : inline-block
