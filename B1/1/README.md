@@ -21,7 +21,7 @@ float로 정렬하면, 왼쪽(left) 또는 오른쪽(right)로 다른 요소가 
 
 ### 첫 번째 방법 : clearfix
 
-<img src="https://github.com/TaekGeunLee/study_frontEnd/blob/master/readmeImg/B1_2-3.JPG" alt="B1_2-3" />
+<img src="https://github.com/TaekGeunLee/study_frontEnd/blob/master/readmeImg/B1_2-3.png" alt="B1_2-3" />
 
 위의 그림 처럼 하나의 행마다 .wrap요소로 감싼다.<br />
 그 다음에 .wrap 내부의 요소들에 걸린 float을 제거한다.
