@@ -10,6 +10,9 @@
 
 ### Ch3. 새로운 레이아웃
 * [3](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/3) : CSS 양식화 문맥
+* [4](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/4) : floating
+* [5](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/5) : position - relative, absolute
+* [6](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/6) : position - fixed, sticky
 
 
 
