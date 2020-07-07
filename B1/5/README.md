@@ -21,7 +21,7 @@ position: absolute;가 적용된 요소는
 </p>
 
 <p>
-<a href="#">이전 레퍼토리</a>에서 absolute 값은 기존 흐름에서 벗어나게 한다는 것을 배웠었다.<br />실제로 aboluste 값을 주면, 부모 요소(핑크색)가 쪼그라드는 것을 관찰할 수 있다.   
+<a href="https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/3">이전 레퍼토리</a>에서 absolute 값은 기존 흐름에서 벗어나게 한다는 것을 배웠었다.<br />실제로 aboluste 값을 주면, 부모 요소(핑크색)가 쪼그라드는 것을 관찰할 수 있다.   
 </p>
 
 
