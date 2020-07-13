@@ -4,7 +4,7 @@
 신문지를 연상해보면 어떤 배치인지 짐작할 수 있을 것이다.    
 </p>
 
-<img src="https://github.com/TaekGeunLee/study_frontEnd/blob/master/readmeImg/B1_8-1.JPG" alt="B1_8-1" />
+<img src="https://github.com/TaekGeunLee/study_frontEnd/blob/master/readmeImg/B1_8-1.jpg" alt="B1_8-1" />
 
 <p>
 column-count 프로퍼티를 이용해 멀티 칼럼 레이아웃을 나타내보자.<br />
@@ -44,7 +44,7 @@ column-count 프로퍼티를 이용해 멀티 칼럼 레이아웃을 나타내�
 구글에 'multi column layout'을 쳐보면 여러 예시들을 살펴볼 수 있다.    
 </p>
 
-<img src="https://github.com/TaekGeunLee/study_frontEnd/blob/master/readmeImg/B1_8-3.JPG" alt="B1_8-3" />
+<img src="https://github.com/TaekGeunLee/study_frontEnd/blob/master/readmeImg/B1_8-3.jpg" alt="B1_8-3" />
 
 <p>
 이런 식으로 각 div 박스들을 신문 칼럼처럼 나누면 꽤 그럴싸한 레이아웃을 구성할 수도 있을 것이다.<br />
