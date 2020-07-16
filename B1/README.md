@@ -16,7 +16,7 @@
 * [6](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/6) : position - fixed, sticky
 * [8](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/8) : 멀티 칼럼 레이아웃
 * [9](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/9) : flex
-
+* [10](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/10) : grid
 
 
 
