@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<link href="style/common.css" rel="stylesheet" />
+<style>
+    .contanier {
+        width: 1200px;
+        margin: 0 auto;
+        background: #fff;
+        display: grid;
+        grid-template-rows: repeat(3, 1fr);
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap : 15px;
+        grid-template-areas: 
+            "a a b b"
+            "a a c c"
+            "d d d d";
+        justify-items: end;
+    }
+    
+    .box {
+        width: 200px;
+        background-color: lightcyan;
+        color: #222222;
+    }
+    
+    .item1 { grid-area : a; }
+    .item2 { grid-area : b; }
+    .item3 { grid-area : c; }
+    .item4 { grid-area : d; }
+</style>
+</head>
+<body>
+<div class="contanier">
+    <div class="box item1">
+    <h1>이것은 Flex box 1 입니다.</h1>
+    <p>When I came back to Chile and joined Oceana, I faced the real world. The industry, the artisanal fishermen, and the theory collided into this very unknown world of practicality and how the model of fisheries recovery actually works on the ground. Eventually, I started going to local communities of fishermen to see how we could solve the issue of illegal fishing together.</p>
+    </div>
+    
+    <div class="box item2">
+    <h1>이것은 Flex box 2 입니다.</h1>
+    <p>When I came back to Chile and joined Oceana, I faced the real world. The industry, the artisanal fishermen, and the theory collided into this very unknown world of practicality and how the model of fisheries recovery actually works on the ground. Eventually, I started going to local communities of fishermen to see how we could solve the issue of illegal fishing together.</p>
+    </div>
+    
+    <div class="box item3">
+    <h1>이것은 Flex box 3 입니다.</h1>
+    <p>When I came back to Chile and joined Oceana, I faced the real world. The industry, the artisanal fishermen, and the theory collided into this very unknown world of practicality and how the model of fisheries recovery actually works on the ground. Eventually, I started going to local communities of fishermen to see how we could solve the issue of illegal fishing together.</p>
+    </div>
+    
+    <div class="box item4">
+    <h1>이것은 Flex box 4 입니다.</h1>
+    <p>When I came back to Chile and joined Oceana, I faced the real world. The industry, the artisanal fishermen, and the theory collided into this very unknown world of practicality and how the model of fisheries recovery actually works on the ground. Eventually, I started going to local communities of fishermen to see how we could solve the issue of illegal fishing together.</p>
+    </div>
+     
+</div>
+
+</body>
+</html>
