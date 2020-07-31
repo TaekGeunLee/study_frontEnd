@@ -10,6 +10,7 @@
 * [2](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/2) : 도구에 의존하는 것에 대해서?
 
 ### Ch3. 새로운 레이아웃
+과거에 쓰던 방법을 넘어 현재 시점에서 사용하는 레이아웃 구성 방법들을 살펴봅니다.
 * [3](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/3) : CSS 양식화 문맥
 * [4](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/4) : floating
 * [5](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/5) : position - relative, absolute
@@ -17,6 +18,12 @@
 * [8](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/8) : 멀티 칼럼 레이아웃
 * [9](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/9) : flex
 * [10](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/10) : grid
+
+### Ch4. 배치와 정렬
+ch.3에서 살펴봤던 새로운 레이아웃 구성 기술인 flex, grid의 배치/정렬 방법 및 동작 원리 등을 살펴봅니다.
+
+* [11](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/11) : flex의 배치와 정렬
+
 
 
 
