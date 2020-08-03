@@ -108,11 +108,24 @@ flex-direction을 이용해 주축의 방향을 수직으로 바꾸었다.<br />
 
 <p>
 정리를 해보면,<br />
-flex-direction은 주축의 방향을 바꿈으로써 box들의 배치 방향을 바꾸고,<br />
+flex-direction은 주축의 방향을 바꿈으로써 box들의 배치 방향을 바꾸고(정렬),<br />
 align-self는 값에 따라 교차축의 어느 방향에 배치할 것인지에 대해 정한다..<br /> 
 라고 할 수 있겠다.    
 </p>
 
+## Float의 정렬
 
+처음 display 프로퍼티를 이용해 flex를 세팅했을 때, 
+요소들이 왼쪽 끝에서부터 정렬되는 것을 관찰할 수 있었다.
 
+<img src="https://github.com/TaekGeunLee/study_frontEnd/blob/master/readmeImg/B1_11-6.JPG" alt="B1_11-6" />
 
+이는 justify-content의 default 값이 flex-start 이기에,
+주축의 처음(start) 지점에서부터 요소들이 정렬되는 것이다.
+만약 값을 flex-end으로 설정하면 오른쪽 끝에 배치될 것이다.
+이는 주축의 끝(end) 지점에 배치된 것이다.
+
+justify-content는 주축의 방향에 따라 다르게 작용한다.
+예를 들어 주축이 수직 방향(column) 이라면
+위쪽에서부터 배치될 것이다.
+수평 상태의 주축의 시작(start) 지점은 위쪽 이니까 말이다.

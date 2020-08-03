@@ -23,6 +23,7 @@
 ch.3에서 살펴봤던 새로운 레이아웃 구성 기술인 flex, grid의 배치/정렬 방법 및 동작 원리 등을 살펴봅니다.
 
 * [11](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/11) : flex의 배치와 정렬
+* [11](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/12) : grid의 배치와 정렬
 
 
 
