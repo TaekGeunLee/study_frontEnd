@@ -50,8 +50,8 @@ box들은 계속 추가해 나가면 contanier의 크기를 기준으로 크기�
 <img src="https://github.com/TaekGeunLee/study_frontEnd/blob/master/readmeImg/B1_9-2.jpg" alt="B1_9-2" />
 
 <p>
-아무런 제약이 없다면, box들은 수직으로 정렬된다.<br />
-다음 프로퍼티를 주는 것으로 수평으로 정렬되게 할 수 있다.    
+flex-wrap 값을 줌 으로써 box들이 컨테이너의 너비를 초과해 넘어가지 않고
+다음 줄로 배치할 수 있게 한다.    
 </p>
 
 ```css
