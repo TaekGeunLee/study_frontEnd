@@ -23,7 +23,14 @@
 ch.3에서 살펴봤던 새로운 레이아웃 구성 기술인 flex, grid의 배치/정렬 방법 및 동작 원리 등을 살펴봅니다.
 
 * [11](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/11) : flex의 배치와 정렬
-* [11](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/12) : grid의 배치와 정렬
+* [12](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/12) : grid의 배치와 정렬
+* [13](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/13) : 그리드 트랙의 배치와 정렬
+* [14](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/14) : 자동 마진(auto-margin)의 적용
+* [15](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B1/15) : 물리적 속성과 유동적 속성
+
+### Ch5. 반응형 디자인
+- 준비중 -
+
 
 
 
