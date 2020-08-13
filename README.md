@@ -6,3 +6,7 @@
 
 
 ### Topic selection
+
+### Tranning
+* [A1](https://github.com/TaekGeunLee/study_frontEnd/tree/master/A1) : tech speech tranning
+
