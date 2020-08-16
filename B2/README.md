@@ -8,10 +8,11 @@
 
 * [1](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/1) : 제이쿼리 시작하기
 * [2](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/2) : 매치드 셋(matched set) - 요소 선택
-* ■■ : jQuery 메서드 - 요소 읽기 / 특성 값 제어(307p, 314~315p, 320~321p)
-* ■■ : jQuery 메서드 - 요소 수정(316~317p)
+* [4](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/4) : jQuery 메서드 - 요소 읽기
+* [5](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/5) : jQuery 메서드 - 요소 수정
 * ■■ : jQuery 메서드 - 새 요소 추가(318~319p)
 * ■■ : jQuery 메서드 - 요소 제거(346~347p)
+* ■■ : jQuery 메서드 - 특성(attribute) 제어(346~347p)
 * ■■ : jQuery 메서드 - css 속성 제어(322~323p)
 * [3](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/3) : 루프, 체이닝
 * ■■ : ready() - 페이지 실행 준비 확인(312~313p)
