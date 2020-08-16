@@ -10,12 +10,12 @@
 * [2](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/2) : 매치드 셋(matched set) - 요소 선택
 * [4](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/4) : jQuery 메서드 - 요소 읽기
 * [5](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/5) : jQuery 메서드 - 요소 수정
-* ■■ : jQuery 메서드 - 새 요소 추가(318~319p)
+* [6](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/6) : jQuery 메서드 - 새 요소 추가
 * ■■ : jQuery 메서드 - 요소 제거(346~347p)
 * ■■ : jQuery 메서드 - 특성(attribute) 제어(346~347p)
 * ■■ : jQuery 메서드 - css 속성 제어(322~323p)
 * [3](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/3) : 루프, 체이닝
-* ■■ : ready() - 페이지 실행 준비 확인(312~313p)
+* [7](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/7) : ready() - 페이지 실행 준비 확인
 * ■■ : 이벤트(event)(326~331p)
 * ■■ : 애니메이션 효과(332~335p)
 * ■■ : DOM 탐색하기(336~337p)
