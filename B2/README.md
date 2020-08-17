@@ -11,9 +11,8 @@
 * [4](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/4) : jQuery 메서드 - 요소 읽기
 * [5](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/5) : jQuery 메서드 - 요소 수정
 * [6](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/6) : jQuery 메서드 - 새 요소 추가
-* ■■ : jQuery 메서드 - 요소 제거(346~347p)
-* ■■ : jQuery 메서드 - 특성(attribute) 제어(346~347p)
-* ■■ : jQuery 메서드 - css 속성 제어(322~323p)
+* [8](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/8) : jQuery 메서드 - 요소 제거
+* [9](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/9) : jQuery 메서드 - 태그 특성(attribute), css 속성 제어
 * [3](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/3) : 루프, 체이닝
 * [7](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/7) : ready() - 페이지 실행 준비 확인
 * ■■ : 이벤트(event)(326~331p)
