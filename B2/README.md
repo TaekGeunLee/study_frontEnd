@@ -16,7 +16,7 @@
 * [3](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/3) : 루프, 체이닝
 * [7](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/7) : ready() - 페이지 실행 준비 확인
 * [10](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/10) : 이벤트(event)
-* ■■ : 애니메이션 효과(332~335p)
+* [11](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/11) : 애니메이션 효과
 * ■■ : DOM 탐색하기(336~337p)
 * ■■ : 필터링(338~339p)
 * ■■: 인덱스 번호 활용(340~341p)
