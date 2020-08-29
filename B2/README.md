@@ -17,8 +17,8 @@
 * [7](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/7) : ready() - 페이지 실행 준비 확인
 * [10](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/10) : 이벤트(event)
 * [11](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/11) : 애니메이션 효과
-* ■■ : DOM 탐색하기(336~337p)
-* ■■ : 필터링(338~339p)
+* [12](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/12) : DOM 탐색하기
+* [13](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/13) : 필터링
 * ■■: 인덱스 번호 활용(340~341p)
 * ■■ : 폼(342~345p)
 * ■■ : 요소, 창, 페이지 영역 다루기(348~353p)
