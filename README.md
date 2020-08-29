@@ -6,6 +6,7 @@
 
 
 ### Topic selection
+* [T1](https://github.com/TaekGeunLee/study_frontEnd/tree/master/T1) : Affinity Designer
 
 ### Tranning
 * [A1](https://github.com/TaekGeunLee/study_frontEnd/tree/master/A1) : tech speech tranning
