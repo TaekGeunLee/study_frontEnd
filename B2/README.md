@@ -5,7 +5,6 @@
 ### Ch6. 이벤트
 
 ### Ch7. 제이쿼리(jQuery)
-
 * [1](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/1) : 제이쿼리 시작하기
 * [2](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/2) : 매치드 셋(matched set) - 요소 선택
 * [4](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/4) : jQuery 메서드 - 요소 읽기
@@ -25,6 +24,16 @@
 * ■■ : 라이브러리 충돌 방지(361p)
 
 ### Ch8. Ajax와 JSON
+* ■■ : 개요(370~371p)
+* ■■ : Ajax 동작 방식(372~373p)
+* ■■ : Ajax 처리에 사용되는 데이터 타입(374~377p)
+* ■■ : HTML 로드하기(378~379p)
+* ■■ : JSON 로드하기(382~383p)
+* ■■ : 다른 서버로부터의 데이터 다루기(384~387p)
+* ■■ : jQuery와 Ajax(388~393p)
+* ■■ : 폼 전송하기(394~395p)
+* ■■ : jQuery를 이용한 JSON 로드(396~399p)
+* ■■ : 응용예제(402~407p)
 
 
 
