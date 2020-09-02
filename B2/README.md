@@ -18,14 +18,14 @@
 * [11](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/11) : 애니메이션 효과
 * [12](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/12) : DOM 탐색하기
 * [13](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/13) : 필터링
-* ■■: 인덱스 번호 활용(340~341p)
-* ■■ : 폼(342~345p)
-* ■■ : 요소, 창, 페이지 영역 다루기(348~353p)
+* [14](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/14): 인덱스 번호 활용
+* [15](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/15): 폼
+* [16](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/16) : 요소, 창, 페이지 영역 다루기
 * ■■ : 라이브러리 충돌 방지(361p)
+* ■■ : CDN(Contents Delivery Network)에서 로드하기
 
 ### Ch8. Ajax와 JSON
-* ■■ : 개요(370~371p)
-* ■■ : Ajax 동작 방식(372~373p)
+* [17](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B2/17) : 개요
 * ■■ : Ajax 처리에 사용되는 데이터 타입(374~377p)
 * ■■ : HTML 로드하기(378~379p)
 * ■■ : JSON 로드하기(382~383p)
