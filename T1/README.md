@@ -3,7 +3,7 @@
 # File list
 
 ### 기본 조작
-* ■■ : 작업 환경 세팅
+* [1](https://github.com/TaekGeunLee/study_frontEnd/tree/master/T1/1) : 작업 환경 세팅
 * ■■ : 파일 저장
 * ■■ : 가이드라인/그리드 세팅하기
 * ■■ : 레이어
