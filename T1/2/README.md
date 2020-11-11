@@ -20,7 +20,7 @@ Affity designer는 벡터 기반 그래픽 툴이다.<br />
 레스터라이즈(Rasterize) 변환을 통해 Pixel Layer로 바꿔줄 필요가 있다.
 </p>
 
-<img src="https://github.com/TaekGeunLee/study_frontEnd/blob/master/readmeImg/T1_2-2.JPG" alt="T1_2-2" />
+<img src="https://github.com/TaekGeunLee/study_frontEnd/blob/master/readmeImg/T1_2-2.jpg" alt="T1_2-2" />
 
 ### 레스터라이즈(Rasterize) 란?
 
