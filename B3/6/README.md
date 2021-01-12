@@ -38,4 +38,4 @@ ES6 버전으로 들어가면서 JS에서도 클래스를 지원하게 되었다
 * [1](https://github.com/TaekGeunLee/study_frontEnd/blob/master/B3/6/6-1.md) : 기본
 * [2](https://github.com/TaekGeunLee/study_frontEnd/blob/master/B3/6/6-2.md) : getter, setter
 * [3](https://github.com/TaekGeunLee/study_frontEnd/blob/master/B3/6/6-3.md) : 정적 메서드
-* ■■ : 클래스 상속
+* [4](https://github.com/TaekGeunLee/study_frontEnd/blob/master/B3/6/6-4.md) : 클래스 상속
