@@ -10,4 +10,7 @@
 * ■■ : 제네레이터
 
 ### Ch04. Typescript
-* ■■ : comming-soon
+* [7](https://github.com/TaekGeunLee/study_frontEnd/tree/master/B3/7) : 개발환경 구축
+* ■■ : 정적 타이핑
+* ■■ : 클래스
+* ■■ : 인터페이스
